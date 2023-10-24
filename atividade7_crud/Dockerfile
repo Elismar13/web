@@ -1,4 +1,4 @@
-FROM tomcat:8.0
+FROM tomcat:10.1
   
 MAINTAINER your_name
   
